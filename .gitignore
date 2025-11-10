@@ -1,0 +1,29 @@
+# Pasta do Visual Studio
+.vs/
+
+# Compilação
+bin/
+obj/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações de usuário
+*.user
+*.suo
+
+# Cache
+*.cache
+*.db-wal
+*.db-shm
+
+# Banco SQLite (opcional)
+# FlixUp.db
+
+# Outros arquivos
+*.swp
+*.DS_Store
